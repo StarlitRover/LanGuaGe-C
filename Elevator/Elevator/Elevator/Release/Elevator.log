@@ -1,0 +1,14 @@
+﻿  Elevator.cpp
+C:\Users\86180\Desktop\languageC\Elevator\Elevator\Elevator\Elevator.cpp(147,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\86180\Desktop\languageC\Elevator\Elevator\Elevator\Elevator.cpp(258,20): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\86180\Desktop\languageC\Elevator\Elevator\Elevator\Elevator.cpp(269,21): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\86180\Desktop\languageC\Elevator\Elevator\Elevator\Elevator.cpp(277,21): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\86180\Desktop\languageC\Elevator\Elevator\Elevator\Elevator.cpp(286,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\86180\Desktop\languageC\Elevator\Elevator\Elevator\Elevator.cpp(339,19): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\86180\Desktop\languageC\Elevator\Elevator\Elevator\Elevator.cpp(341,18): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\86180\Desktop\languageC\Elevator\Elevator\Elevator\Elevator.cpp(350,19): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 27 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Elevator.vcxproj -> C:\Users\86180\Desktop\languageC\Elevator\Elevator\Release\Elevator.exe
